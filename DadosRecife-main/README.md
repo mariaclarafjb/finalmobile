@@ -71,8 +71,3 @@ const styles = StyleSheet.create({
 ```
 ---
 
-Desenvolvido com 💙 por [Cicero Antonio](https://github.com/cicerooant)
-
-
-
-Sinta-se à vontade para personalizar e ajustar conforme necessário. Se precisar de mais alguma coisa, estou à disposição!
