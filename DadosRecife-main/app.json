@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "DadosRecife",
+    "slug": "dados-recife",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "description": "Todas as informações em suas mãos",
+    "lang": "pt",
+    "orientation": "portrait",
+    "background_color": "#191a18",
+    "theme": {
+      "colors": {
+        "primary": "#ff9600"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.dadosrecife"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.example.dadosrecife"
+    },
+    "locales": {
+      "pt": {
+        "name": "DadosRecife",
+        "description": "Todas as informações em suas mãos"
+      }
+    }
+   
+  }
+}
